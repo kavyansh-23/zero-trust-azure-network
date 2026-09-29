@@ -20,4 +20,16 @@ See [docs/architecture.md](docs/architecture.md) for the diagram and control mat
 Scale lever: each spoke is one map entry in `envs/prod/prod.tfvars`. Add a spoke, get its VNet, NSGs, routes, peering, and optionally a VM and database.
 
 ## Proofs
+Recource Groups:-
 <img width="940" height="361" alt="image" src="https://github.com/user-attachments/assets/f18b1ec6-499d-4abd-b9f5-8a441b4e54ac" />
+Recources:-
+<img width="940" height="326" alt="image" src="https://github.com/user-attachments/assets/3c66ff61-dc1a-43fe-a9a4-9a0bd0142afd" />
+<img width="940" height="331" alt="image" src="https://github.com/user-attachments/assets/8cb7a546-5635-4878-bac7-a7d472d71c5b" />
+<img width="940" height="185" alt="image" src="https://github.com/user-attachments/assets/727416e5-ac1a-4ba5-bff2-3c417a5a002a" />
+Apply completed status:-
+<img width="940" height="236" alt="image" src="https://github.com/user-attachments/assets/b2777b07-8440-48f7-9574-9d4ef6b2a852" />
+Verifying Zero trust:-
+<img width="940" height="60" alt="image" src="https://github.com/user-attachments/assets/840cee4e-2ddb-4802-adf1-b1320c18b7fd" />
+Log analytics workspace:-
+<img width="919" height="673" alt="image" src="https://github.com/user-attachments/assets/293ad6f2-fd79-42c5-8a4b-9f6e55107b74" />
+
