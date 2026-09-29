@@ -18,3 +18,6 @@ See [docs/architecture.md](docs/architecture.md) for the diagram and control mat
 | `policy` | Subscription-scope Azure Policy assignments (built-in definitions) |
 
 Scale lever: each spoke is one map entry in `envs/prod/prod.tfvars`. Add a spoke, get its VNet, NSGs, routes, peering, and optionally a VM and database.
+
+## Proofs
+<img width="940" height="361" alt="image" src="https://github.com/user-attachments/assets/f18b1ec6-499d-4abd-b9f5-8a441b4e54ac" />
